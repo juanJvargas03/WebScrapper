@@ -36,6 +36,9 @@ The translated HTML files will be saved in the same directory as the original HT
 
 Note that the translation process can take some time depending on the number of files and the amount of text to be translated. The batch_size variable in the code controls how many text strings are translated in each batch. You may need to adjust this value depending on the size of the text strings and the resources available on your computer.
 
+Live page with my results:
+https://webscrapperallstartcoding.web.app
+
 License:
 
 This code is provided under the MIT License. Please see the LICENSE file for more information.
